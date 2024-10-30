@@ -1,9 +1,8 @@
-# Dio- Criar Desafio Sistema Bancario
-Criando um sistema bancário com as operações: sacar, depositar e visualizar extrato.
-
-# Desafio
+# Dio-Desafio-Sistema-Bancario_V2
 Atualizar o sistema do Banco criado anteriomente. 
 ### Dio-Desafio-Sistema-Bancario
+
+# Desafio
 Separar as funções existentes de depósito, saque e extrato em funções. 
 ### Criar duas novas funções:
 Cadastrar usuário (Cliente) e Cadastrar conta Bancária 
